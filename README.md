@@ -4,7 +4,7 @@
 
 <h3 align="left">🫠About me:</h3>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eysta00.eysta00&left_color=gray&right_color=firebrick&left_text=profile%20visitors"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Eysteinn-Orn.Eysteinn-Orn&left_color=gray&right_color=firebrick&left_text=profile%20visitors"  />
 
 - ⚒️ I'm currently working parttime as a TA in Reykjavik University in Iceland and looking for jobs.
 - 🎓 I'm a recent computer science graduate from Reykjavík University.
@@ -139,20 +139,20 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eysta00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eysta00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=monokai&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eysteinn-Orn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eysteinn-Orn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=monokai&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=eysta00&theme=monokai&column=4&row=1&margin-w=0&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://streak-stats.demolab.com?user=eysta00&locale=en&mode=weekly&theme=monokai&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Eysteinn-Orn&theme=monokai&column=4&row=1&margin-w=0&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=Eysteinn-Orn&locale=en&mode=weekly&theme=monokai&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/eysta00/eysta00/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Eysteinn-Orn/Eysteinn-Orn/output/snake.svg" alt="Snake animation" />
 
 <!-- ###
 
