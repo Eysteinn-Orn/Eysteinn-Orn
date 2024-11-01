@@ -6,7 +6,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Eysteinn-Orn.Eysteinn-Orn&left_color=gray&right_color=firebrick&left_text=profile%20visitors"  />
 
-- ⚒️ I'm currently working parttime as a TA in Reykjavik University in Iceland and looking for jobs.
+- ⚒️ I'm currently working two jobs, sales rep for a small shop in Iceland and freelancing as a software engineer for small companies.
 - 🎓 I'm a recent computer science graduate from Reykjavík University.
 - 💬 Ask me about Cooking, Gaming or Dungeons and Dragons!
 - 💡 Currently working on my website and some projects to showcase on my portfolio.
