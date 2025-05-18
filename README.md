@@ -23,20 +23,14 @@
   <a href="https://www.linkedin.com/in/eysteinn-orn-jonsson/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://discordapp.com/users/157227892877688832/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/eista_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/Eysta5" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://bsky.app/profile/eysteinn.bsky.social" target="_blank">
+    <img src="imgs/bluesky-icon.svg" width="52" height="40" alt="bluesky logo" />
   </a>
 </div>
 
 ###
 
-<h2 align="left">🛠️ Technologies & Tools I have tinkered with</h2>
+<!-- <h2 align="left">🛠️ Technologies & Tools I have tinkered with</h2>
 
 ###
 
@@ -128,7 +122,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
-###
+### -->
 
 <br clear="both">
 
