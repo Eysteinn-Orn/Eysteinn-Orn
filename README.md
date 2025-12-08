@@ -6,7 +6,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Eysteinn-Orn.Eysteinn-Orn&left_color=gray&right_color=firebrick&left_text=profile%20visitors"  />
 
-- ⚒️ I'm currently working two jobs, sales rep for a small shop in Iceland and Software Engineer for CPS-Acuo.
+- ⚒️ I'm currently working part time as a sales rep for a small shop in Iceland.
 - 🎓 BCs in computer science from Reykjavík University.
 - 💬 Ask me about Cooking, Gaming or Dungeons and Dragons!
 
